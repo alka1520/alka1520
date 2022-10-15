@@ -1,6 +1,6 @@
 
 <h1  align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Alka Singh</h1>
-<a href="#"><img width="90%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="170px"/></a>
+<a href="#"><img width="90%" height="auto" align="center" src="https://i.imgur.com/iXuL1HG.png" height="170px"/></a>
 <h3 align="center">A Java Back-end Developer from India</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=alka1520&label=Profile%20views&color=0e75b6&style=flat" alt="alka1520" /> </p>
