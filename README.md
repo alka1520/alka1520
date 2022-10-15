@@ -1,8 +1,9 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi, I'm Alka Singh; I am a Java%20Back-end%20developer 👨🏻‍💻; !&font=Fira%20Code&center=true&width=440&height=45&color=#fff00&vCenter=true&size=28&pause=1000"></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi, I'm Alka Singh; I am a Java%20Back-end%20developer 👨🏻‍💻; &font=Fira%20Code&center=true&width=440&height=45&color=#fff00&vCenter=true&size=28&pause=1000"></a>
 </p>
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 <h3 align="center">A Java Back-end Developer from India</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=alka1520&label=Profile%20views&color=0e75b6&style=flat" alt="alka1520" /> </p>
