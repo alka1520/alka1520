@@ -12,13 +12,13 @@
 
 - 👯 I’m looking to collaborate on **LinkedIn & GitHub**
 
-- 📫 How to reach me **214112alka@gmail.com**
+- 📫 How to reach me 👉 **214112alka@gmail.com**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://.app/)
 
-- 📄 Know about my experiences [Resume]()
+- 📄 Know about my experiences 👉 [Resume]()
 
-- ⚡ Fun fact I love to do Art.
+- ⚡ Fun fact about me 👉 I love to do Art.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
