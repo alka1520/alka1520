@@ -31,7 +31,7 @@
 <div height= "50"></div>
 
 <h3 align="left">Git profile Trophies:</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=alka1520&label=Profile%20views&color=0e75b6&style=flat" alt="alka1520" /> </p>
+<p align="center"> <img align="center"src="https://komarev.com/ghpvc/?username=alka1520&label=Profile%20views&color=0e75b6&style=flat" alt="alka1520" /> </p>
 
   [![trophy](https://github-profile-trophy.vercel.app/?username=alka1520&theme=darkhub)](https://github.com/alka1520/github-profile-trophy)
 
