@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://.app/)
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/12XRiQyNgzztFJwYA9OJy2nCfHK0nOUV3/view?usp=sharing)
+- 📄 Know about my experiences [Resume]()
 
 - ⚡ Fun fact I love to do Art.
 
@@ -31,10 +31,8 @@
 <div height= "50"></div>
 
 <h3 align="left">Git profile Trophies:</h3>
-<p align="center"> <img align="center"src="https://komarev.com/ghpvc/?username=alka1520&label=Profile%20views&color=0e75b6&style=flat" alt="alka1520" /> </p>
-
-  [![trophy](https://github-profile-trophy.vercel.app/?username=alka1520&theme=darkhub)](https://github.com/alka1520/github-profile-trophy)
-
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alka1520&theme=darkhub" alt="bhasker23" /></a> </p>
+ 
 <h2 align="left">📊 My Github Stats</h2>
    <br/>   
     <p align="center">      
