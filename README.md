@@ -2,7 +2,7 @@
 <h3 align="center">Java Back-end Developer</h3>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
 </div>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=alka1520&label=Profile%20views&color=0e75b6&style=flat" alt="alka1520" /> </p>
 
