@@ -14,9 +14,9 @@
 
 - 📫 How to reach me 👉 **214112alka@gmail.com**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://alka1520.github.io/)
 
-- 📄 Know about my experiences 👉 [Resume]()
+- 📄 Know about my experiences 👉 [Resume](https://drive.google.com/file/d/12XRiQyNgzztFJwYA9OJy2nCfHK0nOUV3/view?usp=sharing)
 
 - ⚡ Fun fact about me 👉 I love to do Art.
 
