@@ -48,7 +48,7 @@
 <br/>   
 
 <p align="center">      
-<a href="https://github.com/alka1520/github-readme-stats"><img alt="alka1520 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alka1520&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/alka1520/github-readme-stats"><img alt="alka1520 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alka1520&langs_count=8&count_private=true&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" /></a>
 </p>      
 <br/>
   
@@ -60,7 +60,7 @@
 <br/>
 
 <p align="center">                                                                                                 
-<a href="https://github.com/alka1520/github-readme-stats"><img alt="alka1520 Github Stats" src="https://github-readme-stats.vercel.app/api?username=alka1520&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="alka1520" /></a>
+<a href="https://github.com/alka1520/github-readme-stats"><img alt="alka1520 Github Stats" src="https://github-readme-stats.vercel.app/api?username=Alka1520&show_icons=true&locale=en&theme=dark&hide_border=true&bg_color=0D1117" alt="alka1520" /></a>
 </p>                                                                 
 
 <br/>
